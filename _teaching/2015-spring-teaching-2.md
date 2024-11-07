@@ -11,4 +11,4 @@ location: "Milano, Italy"
 
 Since Fall 2020, I have been a teaching assistant for the Fluid Mechanics course. I have primarily facilitated exercises on fluid statics and one-dimensional modeling of pressurized pipe flows. Additionally, I have contributed to the development of exam materials, supported grading, and coordinated practical experiments in class, such as orifice flow demonstrations.
 
-![Hydraulics Course Image](http://danielrebai.github.io/images/canaletta2.png)
+![Hydraulics Course Image](http://danielrebai.github.io/images/canaletta2.JPG)
