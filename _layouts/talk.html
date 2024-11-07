@@ -43,14 +43,11 @@ layout: default
       <section class="page__content" itemprop="text">
         # modifica daniel
 
-        # tolgo questo
-        #{{ content }}
-        #{% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-        # metto questo
-        {% if page.fileurl %}
-        <div><a href="{{ page.fileurl }}" class="btn" download>Download Slides</a></div>
-        {% endif %}      
-      
+
+        {{ content }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+         metto questo
+
       </section>
 
 
