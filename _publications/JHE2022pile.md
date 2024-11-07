@@ -7,6 +7,6 @@ excerpt: 'In this paper, we propose a new predictor for the time-dependent, spat
 date: 2022-10-01
 venue: 'Journal of Hydraulic Engineering'
 paperurl: 'http://danielrebai.github.io/files/JHE2022pile.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Franzetti, S., Radice, A., Rebai, D., Ballio, F. (2022). Clear Water Scour at Circular Piers: A New Formula Fitting Laboratory Data with Less Than 25% Deviation. Journal of Hydraulic Engineering, 148(10), Article 04022021. https://doi.org/10.1061/(ASCE)HY.1943-7900.0002009'
 ---
 
