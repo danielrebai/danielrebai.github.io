@@ -9,5 +9,6 @@ location: "Milano, Italy"
 
 ---
 
-![Hydraulics Course](images/profile.jpg)
 Since Spring 2021, I've served as a teaching assistant for the Hydraulics course, supporting Civil Engineering students (2021) and Environmental Engineering students (2022-present). My primary focus has been leading exercises on fluid statics, one-dimensional modeling of pressurized pipe flows, and one-dimensional modeling of open channel flows. I have developed exam materials, assisted with grading, and coordinated hands-on experimental activities in class, including small flume experiments.
+
+![Hydraulics Course Image](images/500x300.png)
