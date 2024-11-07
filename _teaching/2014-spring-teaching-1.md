@@ -6,6 +6,7 @@ permalink:    /teaching/2014-spring-teaching-1
 venue: "Politecnico di Milano, Department of Civil and Environmental Engineering"
 date: 2021-03-01
 location: "Milano, Italy"
+image: profile.jpg
 ---
 
 
