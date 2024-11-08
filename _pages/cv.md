@@ -36,14 +36,16 @@ Work experience
   * Internship done during a course taken at Politecnico di Milano proposed in collaboration with industrial partners and business associations. My team designed an Instrument Training Rigs; in this skid fluid dynamic and thermal processes were simulated and controlled through sensors, including measurement of: flowrate, pressure, temperature, level, pH and density. 
   * Reference: Stefano Malavasi, Luigi Vigo
   
-Skills
+Fellowship and Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* (2020) Ph.D. Scholarship, Ministry of Education, University and Research ≈ €40,000
+* (2018) Thesis Abroad scholarship, Politecnico di Milano €2,200
+
+Awards
+======
+* (2022) Editor’s choice paper, “Clear‑water scour at circular piers: A new formula fitting laboratory data with less than 25% deviation”, by Franzetti et al.
+
+
 
 Publications
 ======
@@ -63,6 +65,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
