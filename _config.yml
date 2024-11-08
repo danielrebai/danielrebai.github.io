@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Daniel Rebai"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Milan"
   employer         : "Politecnico di Milano"
   uri              : # URL
