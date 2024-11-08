@@ -2,7 +2,7 @@
 title: "Fluid Mechanics"
 collection: teaching
 type: "Undergraduate course"
-permalink:    /teaching/2014-spring-teaching-1
+permalink:    /teaching/2014-spring-teaching-2
 venue: "Politecnico di Milano, School of Industrial and Information Engineering"
 date: 2021-03-01
 location: "Milano, Italy"
