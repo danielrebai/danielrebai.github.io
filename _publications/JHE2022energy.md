@@ -7,7 +7,7 @@ excerpt: 'The effect of the intense transport of lightweight sediment without tu
 date: 2022-12-01
 venue: 'Journal of Hydraulic Engineering'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://danielrebai.github.io/files/JHE2022energy.pdf'
+paperurl: #'http://danielrebai.github.io/files/JHE2022energy.pdf'
 citation: 'Rebai, D., Berzi, D., Ballio, F., Matousek, V. (2022). Experimental Comparison of Inclined Flows with and without Intense Sediment Transport: Flow Resistance and Surface Elevation. Journal of Hydraulic Engineering, 148(12), Article 04022026. https://doi.org/10.1061/(ASCE)HY.1943-7900.0002024'
 ---
 
