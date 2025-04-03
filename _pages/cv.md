@@ -17,9 +17,15 @@ Education
 
 Work experience
 ======
-* (currently) Postdoctoral researcher
+* (currently) Research associate
+  * Politecnico di Milano
+  * Supervisor: Mario Franca, Daniel Valero, and Frank Seidel
+  * Project: InMoBed: Inception of Movement and Bedload in MacroPlastics
+    
+* (Nov24 - Mar25) Postdoctoral researcher
   * Politecnico di Milano
   * Supervisor: Francesco Ballio and Alessio Radice
+  * Project: National Recovery and Resilience Plan – NRRP, Mission 4, Component 2, Investment 1.3 – D.D. 1243 2/8/2022, PE0000005)
 
 * (2022): Visiting Ph.D. Student 
   * Technische Universität Braunschweig
