@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * (currently) Research Associate
-  * Politecnico di Milano
+  * Karlsruhe Institute of Technology
   * Supervisor: Mario Franca, Daniel Valero, and Frank Seidel
   * Project: InMoBed: Inception of Movement and Bedload in MacroPlastics
     
