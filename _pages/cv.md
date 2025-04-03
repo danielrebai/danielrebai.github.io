@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* (currently) Research associate
+* (currently) Research Associate
   * Politecnico di Milano
   * Supervisor: Mario Franca, Daniel Valero, and Frank Seidel
   * Project: InMoBed: Inception of Movement and Bedload in MacroPlastics
