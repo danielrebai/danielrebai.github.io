@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 Welcome to my website!
-I’m a postdoctoral researcher at Politecnico di Milano, and I'm interested in river flow and fluid sediment interaction. Experimentalist at heart, the reader of "the proof is left to the reader" in my free time.
+I’m a Research Associate at Karlsruhe Institute of Technology, and I'm interested in river flow and fluid-sediment-plastic interaction. Experimentalist at heart, the reader of "the proof is left to the reader" in my free time.
