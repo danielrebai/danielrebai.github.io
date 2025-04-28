@@ -8,13 +8,4 @@ date: 2020-09-01
 location: "Milano, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Since Fall 2020, I have been serving as a Teaching Assistant for the Fluid Mechanics course. I assisted students with exercises on fluid statics and pipe flow, and also designed a hands-on experiment on orifice flows.
