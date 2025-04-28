@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Hydraulics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Politecnico di Milano, Department of Civil and Environmental Engineering"
+date: 2021-03-01
+location: "Milano, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+From Spring 2021 to Spring 2025, I served as a Teaching Assistant for the Hydraulics course for Civil and Environmental Engineering students at Politecnico di Milano. My work primarily focused on fluid statics, flow in closed conduits, and open channel flow.
 
-Heading 1
-======
+You can watch a YouTube video showcasing a series of classroom experiments below:
 
-Heading 2
-======
-
-Heading 3
-======
+<iframe width="560" height="315" src="https://youtu.be/nI4qtrFxrPg?si=7o9maQd6KarUGOlV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
