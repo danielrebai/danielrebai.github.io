@@ -9,3 +9,5 @@ location: "Milano, Italy"
 ---
 
 Since Fall 2020, I have been serving as a Teaching Assistant for the Fluid Mechanics course. I assisted students with exercises on fluid statics and pipe flow, and also designed a hands-on experiment on orifice flows.
+
+![Fluid Mechanics](images/esperimento1.JPG)
