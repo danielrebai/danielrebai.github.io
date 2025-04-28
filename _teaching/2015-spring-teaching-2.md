@@ -12,4 +12,4 @@ From Spring 2021 to Spring 2025, I served as a Teaching Assistant for the Hydrau
 
 You can watch a YouTube video showcasing a series of classroom experiments below:
 
-<iframe width="560" height="315" src="https://youtu.be/nI4qtrFxrPg?si=7o9maQd6KarUGOlV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nI4qtrFxrPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
