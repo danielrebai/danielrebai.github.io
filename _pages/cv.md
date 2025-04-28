@@ -22,24 +22,22 @@ Work experience
   * Project: Inmobed - Deutsche Forschungsgemeinschaft (DFG) - Projektnummer 544497445
   * Supervisor: Mario Franca
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 24 - Mar 25: Postdoctoral Research
+  * Politecnico di Milano
+  * Supervisor: Francesco Ballio and Alessio Radice
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 22 - Mar 23: Visiting Student
+  * Technische Universität Braunschweig
+  * Supervisor: Jochen Aberle and Katinka Koll
+
+* Oct 19 - Mar 20: Visiting Student
+  * Czech Technical University in Prague
+  * Supervisor: Vaclav Matousek
+
+* Feb 19 - Jun 20: Intern (Politenico MS course)
+  * Endress+Hauser
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +56,16 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Membership
 ======
-* Currently signed in to 43 different slack teams
+* International Association for Hydro‑Environment Engineering and Research (IAHR)
+* European Geosciences Union (EGU)
+* Gruppo Italiano Di Idraulica (GII),
+  
+Peer Review
+======
+* Journal of Hydraulic Engineering
+* Journal of Hydraulic Research
+* Water Resources Research
+* Journal of Geophysical Research - Earth Surface
