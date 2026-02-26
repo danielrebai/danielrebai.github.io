@@ -3,7 +3,7 @@ title: "The Shapes and Sizes of Macroplastics and Other Litter in Rivers"
 collection: publications
 permalink: /publication/shapes-sizes-macroplastics-rivers/
 excerpt: "Physical and geometric characterization of river macrolitter to inform plastic transport modelling and monitoring."
-date: 2026-02-23
+date: 2026-02-01
 venue: "Environmental Science & Technology"
 paperurl: "https://doi.org/10.1021/acs.est.5c13126"
 doi: "10.1021/acs.est.5c13126"
