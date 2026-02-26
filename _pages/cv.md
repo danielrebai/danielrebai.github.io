@@ -66,6 +66,8 @@ Membership
 Peer Review
 ======
 * Journal of Hydraulic Engineering
-* Journal of Hydraulic Research
 * Water Resources Research
 * Journal of Geophysical Research - Earth Surface
+* Journal of Fluid Mechanics
+* Earth Surface Dynamics
+* Journal of Hydrology
