@@ -2,7 +2,7 @@
 title: "The Shapes and Sizes of Macroplastics and Other Litter in Rivers"
 collection: publications
 category: manuscripts
-permalink: /publication/sizeandshape.md
+permalink: /publication/sizeandshape
 excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-02-01
 venue: 'Environmental Science & Technology'
