@@ -3,7 +3,7 @@ title: "On the Effect of Turbulence on Sediment Transport"
 collection: talks
 type: "Seminar"
 venue: "Imperial College London"
-date: 2024-01-01
+date: 2025-10-10
 location: "London, UK"
 permalink: /talks/on-the-effect-of-turbulence-on-sediment-transport/
 ---
