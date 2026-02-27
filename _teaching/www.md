@@ -2,7 +2,7 @@
 title: "Wasserbau und Wasserwirtschaft"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/www
 venue: "Karlsruhe Institute of Technology, Department of Civil Engineering, Geo and Environmental Sciences"
 date: 2025-09-01
 location: "Karlsruhe, Germany"
