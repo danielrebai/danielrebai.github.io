@@ -7,7 +7,7 @@ excerpt: #'This paper is about the number 3. The number 4 is left for future wor
 date: 2025-11-26
 venue: 'Environmental Science & Technology'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://ascelibrary.org/doi/epdf/10.1061/JHEND8.HYENG-14569](https://pubs.acs.org/doi/full/10.1021/acs.est.5c13126'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.est.5c13126'
 citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
