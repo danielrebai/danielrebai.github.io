@@ -10,7 +10,7 @@ pdf: "https://danielrebai.github.io/files/RiverFlow2026.pdf"
 ---
 
 ### View the contribution for this talk:
-[Download PDF](https://danielrebai.github.io/files/RiverFlow2026.pdf)
+[View presentation (PDF)](/files/RiverFlow2026.pdf)
 
 Plastic pollution in rivers is a growing environmental concern, yet statistical information on the physical properties of riverine litter, such as its mass, size, and shape, remains limited. In this work, we conducted a comprehensive meta-analysis incorporating 13 studies from 11 rivers across four continents, comprising a total of 240,571 litter items classified according to the River-OSPAR litter index.
 
