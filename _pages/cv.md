@@ -57,13 +57,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Membership
-======
-* International Association for Hydro‑Environment Engineering and Research (IAHR)
-* European Geosciences Union (EGU)
-* Gruppo Italiano Di Idraulica (GII),
   
-Peer Review
+Peer Review 
 ======
 * Journal of Hydraulic Engineering
 * Water Resources Research
@@ -71,3 +66,9 @@ Peer Review
 * Journal of Fluid Mechanics
 * Earth Surface Dynamics
 * Journal of Hydrology
+
+Membership
+======
+* International Association for Hydro‑Environment Engineering and Research (IAHR)
+* European Geosciences Union (EGU)
+* Gruppo Italiano Di Idraulica (GII),
