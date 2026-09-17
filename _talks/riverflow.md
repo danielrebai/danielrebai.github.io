@@ -6,11 +6,12 @@ permalink: /talks/riverflow-riverine-litter
 venue: "River Flow"
 date: 2026-07-04
 location: "Thessaloniki, Greece"
-pdf: "https://danielrebai.github.io/files/RiverFlow2026.pdf"
+pdf: "/_talks/files/RiverFlow2026.pdf"
 ---
 
 ### View the contribution for this talk:
-[View presentation (PDF)](/files/RiverFlow2026.pdf)
+
+[View presentation (PDF)](/_talks/files/RiverFlow2026.pdf)
 
 Plastic pollution in rivers is a growing environmental concern, yet statistical information on the physical properties of riverine litter, such as its mass, size, and shape, remains limited. In this work, we conducted a comprehensive meta-analysis incorporating 13 studies from 11 rivers across four continents, comprising a total of 240,571 litter items classified according to the River-OSPAR litter index.
 
