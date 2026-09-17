@@ -58,8 +58,10 @@ Teaching
   {% endfor %}</ul>
 
   
-Peer Review 
+Professional Services
 ======
+
+### Academic Journals
 * Journal of Hydraulic Engineering
 * Water Resources Research
 * Journal of Geophysical Research - Earth Surface
@@ -67,6 +69,9 @@ Peer Review
 * Earth Surface Dynamics
 * Journal of Hydrology
 
+### Funding Agencies
+* National Science Foundation
+  
 Membership
 ======
 * International Association for Hydro‑Environment Engineering and Research (IAHR)
