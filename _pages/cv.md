@@ -68,6 +68,7 @@ Professional Services
 * Journal of Fluid Mechanics
 * Earth Surface Dynamics
 * Journal of Hydrology
+* Environmental Science & Technology
 
 ### Funding Agencies
 * National Science Foundation
