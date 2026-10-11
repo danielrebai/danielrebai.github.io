@@ -66,6 +66,7 @@ Professional Services
 * Water Resources Research
 * Journal of Geophysical Research - Earth Surface
 * Journal of Fluid Mechanics
+* Nature - Scientific Reports
 * Earth Surface Dynamics
 * Journal of Hydrology
 * Environmental Science & Technology
