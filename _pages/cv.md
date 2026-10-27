@@ -77,7 +77,7 @@ Professional Services
 ### Conference Service
 - **Co-Chair**, Special Session SS3: *Plastic Monitoring, Modelling and Mitigation*, River Flow 2026.
 - **Co-Organizer**, Master Class: *Plastic Transport in Rivers*, River Flow 2026.
-- **Co-Organizer**, Workshop: *Plastic Transport in Rivers: Connecting empiricism and modellng*, Karlsruhe, 2026.
+- **Co-Organizer**, Workshop: *Plastic Transport in Rivers: Connecting Empiricism and Modelling*, Karlsruhe, 2026.
   
 Membership
 ======
