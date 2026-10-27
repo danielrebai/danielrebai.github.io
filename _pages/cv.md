@@ -34,7 +34,7 @@ Work experience
   * Czech Technical University in Prague
   * Supervisor: Vaclav Matousek
 
-* Feb 19 - Jun 20: Intern (Politenico MS course)
+* Feb 19 - Jun 20: Intern (Politecnico MS course)
   * Endress+Hauser
 
   
@@ -61,7 +61,7 @@ Teaching
 Professional Services
 ======
 
-### Academic Journals
+### Reviewer for Academic Journals
 * Journal of Hydraulic Engineering
 * Water Resources Research
 * Journal of Geophysical Research - Earth Surface
@@ -71,8 +71,13 @@ Professional Services
 * Journal of Hydrology
 * Environmental Science & Technology
 
-### Funding Agencies
+### Reviewer for Funding Agencies
 * National Science Foundation
+
+### Conference Service
+- **Co-Chair**, Special Session SS3: *Plastic Monitoring, Modelling and Mitigation*, River Flow 2026.
+- **Co-Organizer**, Master Class: *Plastic Transport in Rivers*, River Flow 2026.
+- **Co-Organizer**, Workshop: *Plastic Transport in Rivers: Connecting empiricism and modellng*, Karlsruhe, 2026.
   
 Membership
 ======
